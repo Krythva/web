@@ -1,4 +1,4 @@
-# **1. Develop the HTML page named as “Myfirstwebpage.html”. Add the following tags with relevant content. Set the title of the page as “My First Web Page” Within the body use the following tags:**
+ **1. Develop the HTML page named as “Myfirstwebpage.html”. Add the following tags with relevant content. Set the title of the page as “My First Web Page” Within the body use the following tags:**
 a) Moving text = “Basic HTML Tags”
 b) Different heading tags (h1 to h6)
 c) Paragraph
